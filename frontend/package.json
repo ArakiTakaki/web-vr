@@ -15,6 +15,7 @@
     "webxr-polyfill": "^2.0.3"
   },
   "devDependencies": {
+    "@types/node": "^18.0.6",
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "@types/webxr": "^0.5.0",
